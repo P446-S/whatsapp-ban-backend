@@ -1,0 +1,9 @@
+[project]
+name = "whatsapp-ban-api"
+version = "1.0.0"
+dependencies = [
+    "flask",
+    "flask-cors",
+    "selenium",
+    "requests"
+]
